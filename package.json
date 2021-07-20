@@ -1,7 +1,6 @@
 {
   "name": "eleventy-architect-quick-starter",
   "version": "0.0.1",
-  "description": "TBD",
   "main": "index.js",
   "license": "CC0-1.0",
   "devDependencies": {

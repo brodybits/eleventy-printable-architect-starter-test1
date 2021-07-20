@@ -6,6 +6,6 @@
   "license": "CC0",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
-    "eleventy-plugin-sass": "^1.0.0"
+    "eleventy-plugin-sass": "^1.2.0"
   }
 }

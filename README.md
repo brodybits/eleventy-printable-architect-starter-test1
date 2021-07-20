@@ -1,11 +1,18 @@
-# The Architect theme
+# eleventy-architect-quick-starter-test1
 
+[![GitHub LICENSE (CC0-1.0)](https://img.shields.io/github/license/brodybits/eleventy-architect-quick-starter-test1?style=flat-square)](./LICENSE)
+
+based on: https://github.com/pages-themes/architect
+
+<!-- -- TODO adapt for eleventy fork:
 [Build Status](https://github.com/pages-themes/architect/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-architect.svg)](https://badge.fury.io/rb/jekyll-theme-architect)
 
 *Architect is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/architect), or even [use it today](#usage).*
+-- -- -->
 
 ![Thumbnail of Architect](thumbnail.png)
 
+<!-- -- TODO adapt for eleventy fork:
 ## Usage
 
 To use the Architect theme:
@@ -85,6 +92,7 @@ For more information, see [the Jekyll variables documentation](https://jekyllrb.
 ## Roadmap
 
 See the [open issues](https://github.com/pages-themes/architect/issues) for a list of proposed features (and known issues).
+-- -- -->
 
 ## Project philosophy
 
@@ -94,6 +102,7 @@ The Architect theme is intended to make it quick and easy for GitHub Pages users
 
 Interested in contributing to Architect? We'd love your help. Architect is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
 
+<!-- -- TODO adapt for eleventy fork:
 ### Previewing the theme locally
 
 If you'd like to preview the theme locally (for example, in the process of proposing a change):
@@ -107,3 +116,4 @@ If you'd like to preview the theme locally (for example, in the process of propo
 ### Running tests
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
+-- -- -->

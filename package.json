@@ -1,0 +1,9 @@
+{
+  "name": "printable-architect-starter-theme",
+  "version": "0.0.1-dev",
+  "main": "index.js",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}

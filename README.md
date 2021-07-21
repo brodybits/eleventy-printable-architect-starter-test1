@@ -1,12 +1,14 @@
 # printable-architect-starter-theme
 
-[LICENSE: CC0-1.0](./LICENSE)
+**[LICENSE: CC0-1.0](./LICENSE)**
 
-based on this wonderful project: https://github.com/pages-themes/architect
+based on this wonderful project: **[pages-themes / architect](https://github.com/pages-themes/architect)**
 
 using pure-CSS style
 
 with optional eleventy (11ty) configuration
+
+Recommended template for pure-HTML pages: **[_includes / default.liquid](_includes/default.liquid)**
 
 <!-- -- TODO adapt for this fork:
 [Build Status](https://github.com/pages-themes/architect/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-architect.svg)](https://badge.fury.io/rb/jekyll-theme-architect)

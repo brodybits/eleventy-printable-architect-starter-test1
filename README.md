@@ -1,6 +1,6 @@
-# eleventy-architect-quick-starter-test1
+# eleventy-architect-quick-printable-sass-starter-test1
 
-[![GitHub LICENSE (CC0-1.0)](https://img.shields.io/github/license/brodybits/eleventy-architect-quick-starter-test1?style=flat-square)](./LICENSE)
+[LICENSE (CC0-1.0)](./LICENSE)
 
 based on: https://github.com/pages-themes/architect
 

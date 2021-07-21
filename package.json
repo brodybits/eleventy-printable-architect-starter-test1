@@ -5,5 +5,8 @@
   "license": "CC0-1.0",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1"
+  },
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve"
   }
 }
